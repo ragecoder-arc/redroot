@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments & Keys
+.env
+.env.*
+api_key
+*.key
+
+# Logs
+*.log
+
+# Aider / Editor files
+.aider*
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
