@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 💀 RedRoot - Autonomous Terminal Coding & Cybersecurity AI Agent
-Author: RedRoot Team / Community
+Author: ragecoder-arc (https://github.com/ragecoder-arc)
 License: MIT
 """
 
@@ -75,7 +75,7 @@ API_KEY = get_api_key()
 HEADERS = {
     "Authorization": f"Bearer {API_KEY}",
     "Content-Type": "application/json",
-    "HTTP-Referer": "https://github.com/redroot-ai/redroot",
+    "HTTP-Referer": "https://github.com/ragecoder-arc/redroot",
     "X-Title": "RedRoot-Terminal-Agent",
 }
 
